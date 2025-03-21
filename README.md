@@ -15,7 +15,7 @@
 ### Step 2 (Setting up the open lua protocol):
  - Open the WebApp and navigate to "Initial -> Peripheral -> End-Tool -> Open Protocol"
  - Expand the "Protocol Configuration" tab and wait a couple seconds for it to load.
- - Ensure you are in "Automatic mode" and then enter "Boot Mode"
+ - Ensure you are in "Manual mode" and then enter "Boot Mode"
  - Once in Boot Mode, select "Choose File" and select the AXLE_LUA_End_DaHuan.lua and click "Upload" 
  - The Web App will prompt you to power cycle the robot.
 
