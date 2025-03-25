@@ -27,8 +27,15 @@
       - Initialization, Position, Speed, Torque, Read Position, Read Speed, Read Torque
 - Once you have correctly set up the config, press Configure
 - Then, press "Reset" then Active.
+- Under "Adapted Device", ensure you change "Gripper Manu." to be "Dahuan" and click "configure" then "active"
 
+## For Web App:
+### Step 4:
+- In your program, start by activating the gripper using: ActGripper(1,1)
+- Now, you can move the gripper how you'd like by using:
+- MoveGripper(1,position,force,speed,1000,0,0,0,0,0)
 
+## For SDK:
 ### Step 4 (Prepping your SDK to handle the new gripper):
 - First, connect to the robot using the "robot = Robot.RPC('192.168.58.x') command.
 - Then, use "robot.SetGripperConfig(4, 0) to ensure that the robot knows it's using a DH gripper.
