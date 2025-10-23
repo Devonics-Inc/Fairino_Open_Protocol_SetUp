@@ -1,4 +1,4 @@
-# FairinoAG_SetUp
+# Fairino Open Protocol SetUp (using the AG-165 as an example)
 ### This repo contains the necessary files and instructions for setting up an AG-165 gripper for the fairino 
 ### What you will need:
 - AXLE_LUA_End_DaHuan.lua (included in this repo)
