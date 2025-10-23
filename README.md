@@ -1,5 +1,5 @@
 # Fairino Open Protocol SetUp (using the AG-165 as an example)
-### This repo contains the necessary files and instructions for setting up an AG-165 gripper for the fairino 
+### This repo contains the necessary files and instructions for setting up a custom gripper (using the AG-165 gripper as an example) for the Fairino cobot arm using the Open Peripheral Protocol for custom end effectors
 ### What you will need:
 - AXLE_LUA_End_DaHuan.lua (included in this repo)
 - FR_END_FV201005_MAIN_U01_T01_20240806.bin (included in repo)
